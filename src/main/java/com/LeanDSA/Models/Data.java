@@ -1,4 +1,6 @@
-package com.LeanDSA.Arrays;
+package com.LeanDSA.Models;
+
+import com.LeanDSA.Arrays.DuplicateInteger;
 
 public class Data {
     public static void main(String[] args) {
